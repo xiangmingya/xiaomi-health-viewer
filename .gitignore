@@ -1,0 +1,21 @@
+# 本机登录凭据和登录二维码
+private/
+token*.json
+*token*.json
+config.json
+.env
+.env.*
+qr_login*
+*二维码*
+
+# 运行环境和本地结果
+.venv/
+venv/
+work/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+*.log
+results/
+.DS_Store
